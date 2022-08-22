@@ -27,6 +27,12 @@ Skills: HTML / CSS / SASS / BOOTSTRAP / JavaScript / JQUERY / AJAX / DOM / REACT
 
 https://www.figma.com/files/recent?fuid=1093984492305072508
 
+https://www.linkedin.com/in/jonathan-reyes-alatorre-1674ab195/
+
+https://j0nrey.github.io/Pagina-de-refrecos/
+
+https://gitlab.com/ing.jonrey
+
 
 
 
