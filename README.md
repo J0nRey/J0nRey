@@ -25,6 +25,8 @@ I'm a jr full stack developer by kodemia, i'm starting and I have little experie
 
 Skills: HTML / CSS / SASS / BOOTSTRAP / JavaScript / JQUERY / AJAX / DOM / REACT JS / API Rest / AMAZON WEB SERVISES / IBM CLOUD / UX/UI / FIGMA
 
+https://www.figma.com/files/recent?fuid=1093984492305072508
+
 
 
 
