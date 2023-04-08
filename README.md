@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I'm a jr full stack developer by kodemia, i'm starting and I have little experience but I like to learn and get new knowledge every day.
 
-Skills: HTML / CSS / SASS / BOOTSTRAP / JavaScript / JQUERY / AJAX / DOM / REACT JS / API Rest / AMAZON WEB SERVISES / IBM CLOUD / UX/UI / FIGMA /litElement / webComponents / Polymer
+Skills: HTML / CSS / SASS / BOOTSTRAP / JavaScript / JQUERY / AJAX / DOM / REACT JS / API Rest / AMAZON WEB SERVISES / IBM CLOUD / UX/UI / FIGMA / litElement / webComponents / Polymer
 
 https://www.figma.com/files/recent?fuid=1093984492305072508
 
