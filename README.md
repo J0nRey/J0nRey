@@ -26,19 +26,14 @@ I'm a jr full stack developer by kodemia, i'm starting and I have little experie
 Skills: HTML / CSS / SASS / BOOTSTRAP / JavaScript / JQUERY / AJAX / DOM / REACT JS / API Rest / AMAZON WEB SERVISES / IBM CLOUD / UX/UI / FIGMA / litElement / webComponents / Polymer / CELLs / Scrum Master / CELL Certification
 
 https://gitlab.com/ing.jonrey
+https://www.linkedin.com/in/jonathan-reyes-alatorre-1674ab195/
+https://youtube.com/@jonrey795
 
 pages:
 
-https://jondevelop.netlify.app/
-
 https://www.figma.com/files/recent?fuid=1093984492305072508
-
-https://www.linkedin.com/in/jonathan-reyes-alatorre-1674ab195/
-
+https://jondevelop.netlify.app/
 https://j0nrey.github.io/Pagina-de-refrecos/
-
-https://youtube.com/@jonrey795
-
 https://j0nrey.github.io/JonArellano/
 
 
